@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/roundrouck/static/css/main.d1e5c45d.css",
+    "main.js": "/roundrouck/static/js/main.95062d25.js",
+    "static/js/453.e52305e5.chunk.js": "/roundrouck/static/js/453.e52305e5.chunk.js",
+    "static/media/Vector 7.svg": "/roundrouck/static/media/Vector 7.7eb8b71777c508a017c8.svg",
+    "static/media/about.png": "/roundrouck/static/media/about.48b3dd0850efe644600c.png",
+    "static/media/fa-solid-900.ttf": "/roundrouck/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/serv1.png": "/roundrouck/static/media/serv1.0b861ec4a356dc1936fe.png",
+    "static/media/fa-brands-400.ttf": "/roundrouck/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/serv2.png": "/roundrouck/static/media/serv2.52413f032142e0a602af.png",
+    "static/media/fa-solid-900.woff2": "/roundrouck/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/Rectangle 263.png": "/roundrouck/static/media/Rectangle 263.27d17fa2145c30ef6fb3.png",
+    "static/media/fa-brands-400.woff2": "/roundrouck/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/roundrouck/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/roundrouck/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/Vector8.png": "/roundrouck/static/media/Vector8.e10888128bf92597167e.png",
+    "static/media/logo.png": "/roundrouck/static/media/logo.03933cbef09235fc6988.png",
+    "static/media/face.png": "/roundrouck/static/media/face.b6b00ff3c3bf13dc0604.png",
+    "static/media/fa-v4compatibility.ttf": "/roundrouck/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/roundrouck/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/roundrouck/index.html",
+    "main.d1e5c45d.css.map": "/roundrouck/static/css/main.d1e5c45d.css.map",
+    "main.95062d25.js.map": "/roundrouck/static/js/main.95062d25.js.map",
+    "453.e52305e5.chunk.js.map": "/roundrouck/static/js/453.e52305e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1e5c45d.css",
+    "static/js/main.95062d25.js"
+  ]
+}
