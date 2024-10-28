@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.title{font-size: 64px; font-weight: bolder;}
+
+.bg-blue{background-color:#5180F6 !important }
+p{font-size: 14px; color: #22366A;
+  ;}
+
+.text-blue{color:#5180F6 ;}
+
+.form-ctr{background: #CEDCFF !important;
+  padding: 15px 20px !important;
+  border-radius: 50px !important;
+  border: none !important;}
+
+ .form-btn{ font-size: 24px !important;
+  font-weight: bolder !important;
+  border-radius: 200px !important;border:2px solid #5180F6 !important; width: 180px !important; }
+
+  .Contact i{color:#5180F6 ; margin-right: 15px;}
+
+  .padding-title{padding: 10px 0 50px 0 ;}
+  .footer{
+    background-color:  #0C1E49;
+    padding: 50px 0;
+    color:#f5f5f5;
+    font-size: large;
+    text-transform: capitalize;
+  }

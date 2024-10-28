@@ -1,0 +1,38 @@
+.about {
+    background-image: url('../../assets/about.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    position: relative;
+    z-index: 55;
+}
+
+.about .mainimg {
+    position: relative;
+    z-index: 99999999999
+}
+
+.about::before {
+    position: absolute;
+    content: "";
+    top: 0;
+    font-size: 0;
+    right: 0%;
+    width: 75%;
+    overflow: hidden;
+    height: 100vh;
+    background-image: url('../../assets/Vector8.png');
+    z-index: 0;
+
+}
+
+.btn-yellow {
+    background-color: #EEC04B !important;
+}
+.btn-big {
+    width: 280px !important;
+    font-size:24px !important;
+    font-weight: bolder !important;
+    border-radius: 200px !important;
+
+}
